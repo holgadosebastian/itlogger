@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-02-07T11:23:24.874Z"
+    },
+    {
+      "id": 3,
+      "message": "awdadad Stopped working",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-02-07T11:23:34.435Z"
+    },
+    {
+      "id": 4,
+      "message": "This is a message",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-02-07T11:12:13.504Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sebastian",
+      "lastName": "Holgado"
+    },
+    {
+      "firstName": "Seb",
+      "lastName": "Sebola",
+      "id": 4
+    }
+  ]
+}
